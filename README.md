@@ -9,3 +9,8 @@
 
 ### Screenshot
 ![Screenshot of Live Bait Shop](fitforfitnessscreenshot.png)
+
+#Participants
+**Kaden H.**
+**Kody C.**
+**ZECHARIAH S.**
